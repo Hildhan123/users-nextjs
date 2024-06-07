@@ -20,3 +20,11 @@ npm run test
 ```
 ## Live Website
 https://users-nextjs-lime.vercel.app/
+
+## 🛠 Tools
+
+Next JS , 
+Material UI (MUI) ,
+Redux toolkit (for state management),
+Typscripts,
+Jest,
