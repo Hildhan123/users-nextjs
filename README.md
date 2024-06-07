@@ -9,12 +9,12 @@ Simple application that showing list of users and detail with some feature add, 
 ```
 npm install
 ```
-4. Run 'npm run dev' to see live development.
+3. Run 'npm run dev' to see live development.
 ```
 npm run dev
 ```
-6. Open 'http://localhost:3000' in your browser.
-7. Additionally you can run 'npm run test' to see testing with Jest.
+4. Open 'http://localhost:3000' in your browser.
+5. Additionally you can run 'npm run test' to see testing with Jest.
 ```
 npm run test
 ```
