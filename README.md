@@ -1,7 +1,7 @@
 # IN YOU MARKET Frontend Assignment
 
 ## Descriptions
-Simple application that showing list of users and detail
+Simple application that showing list of users and detail with some feature add, edit, and delete.
 
 ## How to install
 1. Clone this repository.
@@ -18,8 +18,6 @@ npm run dev
 ```
 npm run test
 ```
-## Live Website
-https://users-nextjs-lime.vercel.app/
 
 ## 🛠 Tools
 
@@ -27,4 +25,7 @@ Next JS ,
 Material UI (MUI) ,
 Redux toolkit (for state management),
 Typscripts,
-Jest,
+Jest
+
+## 🌐 Live Website
+https://users-nextjs-lime.vercel.app/
