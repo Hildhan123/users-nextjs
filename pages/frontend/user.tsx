@@ -28,7 +28,7 @@ const User: React.FC = () => {
     phone: '',
     website: '',
   });
-  const [alertMessage, setAlertMessage] = useState("");
+  const [alertMessage, setAlertMessage] = useState('');
   const [isGrid, setIsGrid] = useState(false);
   const fabContainerStyle: React.CSSProperties = {
     position: 'fixed',
@@ -84,7 +84,7 @@ const User: React.FC = () => {
     setOpenEditDialog(false);
   };
   const resetAlertMessage = () => {
-    setAlertMessage("");
+    setAlertMessage('');
   };
 
   return (
